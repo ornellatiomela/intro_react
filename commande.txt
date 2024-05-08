@@ -1,0 +1,8 @@
+git clone
+git remote add<origin>
+git pull<options>
+git branch<options>
+git branch<options>
+git add<options>
+git commit<options>
+git push
